@@ -1,4 +1,3 @@
-
 .Loader,
 .Loader:before,
 .Loader:after {
@@ -25,7 +24,7 @@
 .Loader:before {
   width: 5.2em;
   height: 10.2em;
-  background: #e7f2f2;
+  background: #fff;
   border-radius: 10.2em 0 0 10.2em;
   top: -0.1em;
   left: -0.1em;
@@ -37,7 +36,7 @@
 .Loader:after {
   width: 5.2em;
   height: 10.2em;
-  background: #e7f2f2;
+  background: #fff;
   border-radius: 0 10.2em 10.2em 0;
   top: -0.1em;
   left: 5.1em;
@@ -66,4 +65,3 @@
     transform: rotate(360deg);
   }
 }
-
